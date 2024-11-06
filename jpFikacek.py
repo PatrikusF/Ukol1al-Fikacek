@@ -1,1 +1,1 @@
-pole = 
+pole = [
